@@ -1,6 +1,6 @@
 # Howto-vault-cli
 
-This repository is a little memory aid on how to use the Vault cli to do common operations.
+This repository serves as a handy reference for using the Vault CLI to perform common operations.
 
 ## Install Vault cli
 
